@@ -1,2 +1,2 @@
-# chat-bot
-chat bot in python
+# number-guessing-game
+guessing game in python
